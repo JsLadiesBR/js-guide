@@ -1,21 +1,30 @@
-# Teste JsLadies
+# :memo: Js Guide - JSLadies :memo:
+
+Guia para aprender a programar javascript na prática!
 
 ## Instalação
 
-É necessário ter instalado uma versão atualizada do nodeJs no seu computador,  Voce pode intalar por (aqui)[https://nodejs.org/en/]
+É necessário ter instalado uma versão atualizada do nodeJs no seu computador,  Voce pode intalar por [aqui](https://nodejs.org/en/)
 
 Clone o repositório e dentro da pasta do dos desafios rode em seu terminal os comandos:
-*pela Npm*
+
+
+**pela npm**
+
 `npm i`
+
 *`npm run test`
 
-*Pelo Yarn*((Instale aqui)[https://yarnpkg.com/en/docs/install])
+
+**pelo Yarn** [Instale aqui](https://yarnpkg.com/en/docs/install)
+
 `yarn`
+
 `yarn run dev`
 
 Note que um nyan cat aparecerá no seu terminal avisando que todos os testes falharam, isso acontece porque voce precisa resolve-los!
 
-Para isso abra a pasta do seu projeto com seu editor de texto de preferencia(Recomendamos (Visual Studio Code)[https://code.visualstudio.com/] ou (Atom)[https://atom.io/]!) e começe a resolver os exercicios da pasta "modulos" até o seu teste estar 100% certo!
+Para isso abra a pasta do seu projeto com seu editor de texto de preferencia(Recomendamos [Visual Studio Code](https://code.visualstudio.com/) ou [Atom](https://atom.io/])! e começe a resolver os exercicios da pasta "modulos" até o seu teste estar 100% certo!
 Voce pode mandar um pull request depois com as suas respostas corretas.
 
 ## Referencias
