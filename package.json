@@ -1,0 +1,27 @@
+{
+  "name": "jsladies-koan",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {},
+  "author": "Ana Bastos",
+  "license": "wtfpl",
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "jest": "^20.0.4"
+  },
+  "jest": {
+    "reporters": [
+      [
+        "jest-nyan-reporter",
+        {
+          "suppressErrorReporter": false
+        }
+      ]
+    ]
+  },
+  "devDependencies": {
+    "jest-nyan-reporter": "^1.0.2"
+  }
+}
