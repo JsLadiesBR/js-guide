@@ -13,14 +13,14 @@ Clone o repositório e dentro da pasta do dos desafios rode em seu terminal os c
 
 `npm i`
 
-*`npm run test`
+`npm run test`
 
 
 **pelo Yarn** [Instale aqui](https://yarnpkg.com/en/docs/install)
 
 `yarn`
 
-`yarn run dev`
+`yarn run test`
 
 Note que um nyan cat aparecerá no seu terminal avisando que todos os testes falharam, isso acontece porque voce precisa resolve-los!
 
